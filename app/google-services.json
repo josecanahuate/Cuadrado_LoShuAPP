@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946035486846",
+    "project_id": "cuadrado-loshu",
+    "storage_bucket": "cuadrado-loshu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946035486846:android:8a639ef26d1cb732bfe82f",
+        "android_client_info": {
+          "package_name": "com.loshu.cuadrado_loshu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946035486846-tj37fs9d18ecq51fvegdsrl33rs3gsi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loshu.cuadrado_loshu",
+            "certificate_hash": "05f24c23dd47bad37fc81f921225b9374e86d185"
+          }
+        },
+        {
+          "client_id": "946035486846-jhvkfqqat1sjfc1596d72dsoh16psdsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqwVMMlVj31-8j5fOEsHVhsGsybMCqqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946035486846-jhvkfqqat1sjfc1596d72dsoh16psdsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

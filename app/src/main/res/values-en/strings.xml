@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lo Shu Magic Square</string>
+    <string name="metodo">In the Lo Shu method, you play with groups of four numbers in diagonal, horizontal, and vertical lines. You can also add up these numbers to get results of one or two digits. You can customize your own Lo Shu method by incorporating your date of birth.</string>
+    <string name="comofunciona">How does it work?</string>
+    <string name="masapps">More Apps</string>
+    <string name="calificanos">Rate Us</string>
+    <string name="introduce">Enter Your Date:</string>
+    <string name="anunciobanner">ca-app-pub-4434685305331116/6410401304</string>
+    <string name="dia">Day</string>
+    <string name="mes">Month</string>
+    <string name="año">Year</string>
+    <string name="generar">GENERATE</string>
+</resources>

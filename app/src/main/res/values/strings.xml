@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cuadrado Mágico Lo Shu</string>
+    <string name="metodo">En el método Lo Shu, juegas con grupos de cuatro números en líneas diagonales, horizontales y verticales. También puedes sumar estos números para obtener resultados de uno o dos dígitos. Puedes Personalizar tu propio método Lo Shu insertando tu fecha de nacimiento.</string>
+    <string name="comofunciona">¿Cómo funciona?</string>
+    <string name="masapps">Más Apps</string>
+    <string name="calificanos">Califícanos</string>
+    <string name="introduce">Introduce Tu Fecha:</string>
+    <string name="anunciobanner">ca-app-pub-4434685305331116/6410401304</string>
+    <string name="dia">Día</string>
+    <string name="mes">Mes</string>
+    <string name="año">Año</string>
+    <string name="generar">GENERAR</string>
+</resources>
